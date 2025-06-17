@@ -4,9 +4,9 @@
 
 ### Brief "NetStream" - Finalisation et présentation
 
--  [ ] Sécurité
-  - [ ] Gestion des accès
-  - [ ] Protection des données
+-  [x] Sécurité
+  - [x] Gestion des accès
+  - [x] Protection des données
 
-- [ ] Archivage
-  - [ ] Réalisation du Trigger 
+- [x] Archivage
+  - [x] Réalisation du Trigger 
