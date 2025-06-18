@@ -4,5 +4,5 @@
 
 ### Brief NetStream
 
-- [ ] Finalisation du brief
+- [x] Finalisation du brief
 
