@@ -1,7 +1,7 @@
-# Jour 62 - Mardi 27 Juin 2025
+# Jour 62 - Mardi 27 Mai 2025
 
 ## Objectifs du jour
 
 ### Projet Fil Rouge
 
-- [ ] Avancement du projet Fil Rouge
+- [x] Avancement du projet Fil Rouge
