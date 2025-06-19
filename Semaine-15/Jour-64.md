@@ -4,4 +4,4 @@
 
 ### Projet Fil Rouge
 
-- [ ] Avancement du projet Fil Rouge
+- [x] Avancement du projet Fil Rouge
