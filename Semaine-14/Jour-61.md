@@ -4,7 +4,7 @@
 
 ### Projet Fil Rouge
 
-- [ ] Correction entre pairs du Brief Corpo Event
-  - [ ] Réalisation de la grille d'évaluation
-  - [ ] Correction croisée
-- [ ] Avancement du projet Fil Rouge
+- [x] Correction entre pairs du Brief Corpo Event
+  - [x] Réalisation de la grille d'évaluation
+  - [x] Correction croisée
+- [x] Avancement du projet Fil Rouge
