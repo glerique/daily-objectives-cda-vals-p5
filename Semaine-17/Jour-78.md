@@ -6,29 +6,29 @@
 
 Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 
-- [ ] Stratégies de déploiement
-  - [ ] Déploiement continu
-  - [ ] Déploiement par environnement
-  - [ ] Rollback et gestion des erreurs
-  - [ ] Approbations et contrôles
+- [x] Stratégies de déploiement
+  - [x] Déploiement continu
+  - [x] Déploiement par environnement
+  - [x] Rollback et gestion des erreurs
+  - [x] Approbations et contrôles
 
-- [ ] Intégration avec Docker
-  - [ ] Build d'images Docker
-  - [ ] Push vers Docker Hub
-  - [ ] Déploiement de conteneurs
-  - [ ] Tests d'intégration
+- [x] Intégration avec Docker
+  - [x] Build d'images Docker
+  - [x] Push vers Docker Hub
+  - [x] Déploiement de conteneurs
+  - [x] Tests d'intégration
 
-- [ ] Déploiement sur VPS
-  - [ ] Configuration SSH
-  - [ ] Scripts de déploiement
-  - [ ] Gestion des certificats SSL
-  - [ ] Monitoring du déploiement
+- [x] Déploiement sur VPS
+  - [x] Configuration SSH
+  - [x] Scripts de déploiement
+  - [x] Gestion des certificats SSL
+  - [x] Monitoring du déploiement
 
-- [ ] Projet Final
-  - [ ] Mise en place d'un pipeline complet
-    - [ ] Tests automatisés
-    - [ ] Build Docker
-    - [ ] Déploiement automatique
-  - [ ] Documentation du processus
-  - [ ] Tests de rollback
-  - [ ] Monitoring et alertes 
+- [x] Projet Final
+  - [x] Mise en place d'un pipeline complet
+    - [x] Tests automatisés
+    - [x] Build Docker
+    - [x] Déploiement automatique
+  - [x] Documentation du processus
+  - [x] Tests de rollback
+  - [x] Monitoring et alertes 
