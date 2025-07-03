@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mercredi 25/06/2025 :
+## Mercredi 02/07/2025 :
 
 ### Les Tests d'Intégration
 - [x] Comprendre l'objectif : vérifier que plusieurs modules (composants, classes) fonctionnent correctement ensemble.
